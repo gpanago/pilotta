@@ -9,9 +9,9 @@ from collections import deque
 import utils
 
 # Change to True to train
-training = True
+training = False
 # Change to False to continuously print an average score
-display = False
+display = True
 
 
 
